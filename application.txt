@@ -37,4 +37,6 @@ Customer Notifications
 - Customers can receive order status notifications.
 - Notification preferences can be managed by customers.
 
-
+Payment Processing
+- Customers can complete payments securely.
+- Payment status is recorded for each order.
